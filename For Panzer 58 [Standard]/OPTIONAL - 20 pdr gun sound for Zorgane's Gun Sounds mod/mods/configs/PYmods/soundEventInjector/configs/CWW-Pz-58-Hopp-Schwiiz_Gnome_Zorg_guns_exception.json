@@ -1,0 +1,10 @@
+{
+    "guns": {			    
+		"germany:G119_Panzer58": {   
+			"_9cm_Kan": {
+                "effects": "shot_20pdr",
+	        "reloadEffect": "Reload_90mm_m41_reload"
+            }
+        }
+    }
+}
